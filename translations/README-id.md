@@ -2,13 +2,6 @@
 
 Versi asli: [Bahasa Inggris](../README.md)
 
-<div align="center">
-	<hr />
-    <p>
-        <a href="https://github.com/sponsors/jwasham"><strong>Become a sponsor</strong> and support Coding Interview University!</a>
-    </p>
-    <hr />
-</div>
 
 ## Ringkasan apa ini?
 
@@ -442,7 +435,7 @@ Menulis kode pada papan tulis atau kertas, bukan komputer. Uji dengan beberapa s
     - [Computational Complexity: Section 1](https://www.topcoder.com/community/competitive-programming/tutorials/computational-complexity-section-1/)
     - [Computational Complexity: Section 2](https://www.topcoder.com/community/competitive-programming/tutorials/computational-complexity-section-2/)
 - [ ] [Cheat sheet](http://bigocheatsheet.com/)
-- [ ] [[Review] Big-O notation in 5 minutes (video)](https://youtu.be/__vX2sjlpXU)
+- [ ] [[Review] Analyzing Algorithms (playlist) in 18 minutes (video)](https://www.youtube.com/playlist?list=PL9xmBV_5YoZMxejjIyFHWa-4nKg6sdoIv)
 
 ## Struktur Data
 
@@ -1088,7 +1081,6 @@ Graf (Graphs) dapat digunakan untuk merepresentasikan banyak masalah dalam ilmu 
 - [ ] **MULAI DI SINI**: [Primer Desain Sistem](https://github.com/donnemartin/system-design-primer)
 - [ ] [Desain Sistem dari HiredInTech](http://www.hiredintech.com/system-design/)
 - [ ] [Bagaimana Saya Mempersiapkan Untuk Menjawab Pertanyaan Desain Secara Teknis?](https://www.quora.com/How-do-I-prepare-to-answer-design-questions-in-a-technical-interview?redirected_qid=1500023)
-- [ ] [8 Hal Yang Perlu Diketahui Sebelum Wawancara Desain Sistem](http://blog.gainlo.co/index.php/2015/10/22/8-things-you-need-to-know-before-system-design-interviews/)
 - [ ] [Desain algoritme](http://www.hiredintech.com/algorithm-design/)
 - [ ] [Normalisasi Basis Data - 1NF, 2NF, 3NF dan 4NF (video)](https://www.youtube.com/watch?v=UrYLYV7WSHM)
 - [ ] [Wawancara Desain Sistem](https://github.com/checkcheckzz/system-design-interview) - Ada banyak sumber daya yang satu ini. Lihat artikel dan contoh. Saya taruh beberapa di bawah ini
@@ -1200,7 +1192,7 @@ Graf (Graphs) dapat digunakan untuk merepresentasikan banyak masalah dalam ilmu 
 
 - [ ] Seri video subjek pendek berdurasi 2-3 menit (23 video)
     - [Video](https://www.youtube.com/watch?v=r4r1DZcx1cM&list=PLmVb1OknmNJuC5POdcDv5oCS7_OUkDgpj&index=22)
-- [ ] Seri video subjek pendek berdurasi 2-5 menit - Michael Sambol (46 video):
+- [ ] Seri video subjek pendek berdurasi 2-5 menit - Michael Sambol (48 video):
     - [Video](https://www.youtube.com/@MichaelSambol)
     - [Code Examples](https://github.com/msambol/dsa)
 - [ ] [Video Sedgewick - Algoritma I](https://www.coursera.org/learn/algorithms-part1)
@@ -1287,7 +1279,6 @@ Repo tantangan:
 - [Tantangan Interview Coding Interaktif dengan Python](https://github.com/donnemartin/interactive-coding-challenges)
 
 Wawancara Mock:
-- [Gainlo.co: Mock pewawancara dari perusahaan besar](http://www.gainlo.co/#!/) - Saya menggunakan ini dan itu membantu saya bersantai untuk layar ponsel dan wawancara di tempat
 - [Pramp: Wawancara mengejek dari / dengan teman sebaya](https://www.pramp.com/) - model wawancara praktik peer-to-peer
 - [Refdash: Wawancara tiruan dan wawancara yang dipercepat](https://refdash.com/) - juga membantu kandidat mempercepat dengan melewatkan beberapa wawancara dengan perusahaan teknologi
 - [interviewing.io: Berlatih wawancara tiruan dengan insinyur senior](https://interviewing.io) - wawancara desain algoritme / sistem tanpa nama dengan insinyur senior dari FAANG secara anonim.

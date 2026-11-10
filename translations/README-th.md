@@ -6,7 +6,7 @@
 > *ขอให้คุณโชคดี!*
 
 ภาษาอื่นๆ:
-- [中文版本](translations/README-cn.md)
+- [简体中文](translations/README-cn.md)
 - กำลังดำเนินการแปลภาษา:
     - [Español](https://github.com/jwasham/coding-interview-university/issues/80)
     - [हिन्दी](https://github.com/jwasham/coding-interview-university/issues/81)
@@ -26,13 +26,7 @@
     - [Urdu](https://github.com/jwasham/coding-interview-university/issues/140)
     - [Thai](https://github.com/jwasham/coding-interview-university/issues/156)
 
-<div align="center">
-	<hr />
-    <p>
-        <a href="https://github.com/sponsors/jwasham"><strong>Become a sponsor</strong> and support Coding Interview University!</a>
-    </p>
-    <hr />
-</div>
+
 
 ## นี่คืออะไร ?
 
@@ -492,7 +486,7 @@ There are a lot of distractions that can take up valuable time. Focus and concen
     - [Computational Complexity: Section 1](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-1/)
     - [Computational Complexity: Section 2](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-2/)
 - [ ] [Cheat sheet](http://bigocheatsheet.com/)
-- [ ] [[Review] Big-O notation in 5 minutes (video)](https://youtu.be/__vX2sjlpXU)
+- [ ] [[Review] Analyzing Algorithms (playlist) in 18 minutes (video)](https://www.youtube.com/playlist?list=PL9xmBV_5YoZMxejjIyFHWa-4nKg6sdoIv)
 
 
     If some of the lectures are too mathy, you can jump down to the bottom and
@@ -1169,7 +1163,6 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
         - performance analysis and optimization
 - [ ] **START HERE**: [System Design from HiredInTech](http://www.hiredintech.com/system-design/)
 - [ ] [How Do I Prepare To Answer Design Questions In A Technical Inverview?](https://www.quora.com/How-do-I-prepare-to-answer-design-questions-in-a-technical-interview?redirected_qid=1500023)
-- [ ] [8 Things You Need to Know Before a System Design Interview](http://blog.gainlo.co/index.php/2015/10/22/8-things-you-need-to-know-before-system-design-interviews/)
 - [ ] [Algorithm design](http://www.hiredintech.com/algorithm-design/)
 - [ ] [Database Normalization - 1NF, 2NF, 3NF and 4NF (video)](https://www.youtube.com/watch?v=UrYLYV7WSHM)
 - [ ] [System Design Interview](https://github.com/checkcheckzz/system-design-interview) - There are a lot of resources in this one. Look through the articles and examples. I put some of them below.
@@ -1282,7 +1275,7 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
 
 - [ ] Series of 2-3 minutes short subject videos (23 videos)
     - [Videos](https://www.youtube.com/watch?v=r4r1DZcx1cM&list=PLmVb1OknmNJuC5POdcDv5oCS7_OUkDgpj&index=22)
-- [ ] Series of 2-5 minutes short subject videos - Michael Sambol (46 videos):
+- [ ] Series of 2-5 minutes short subject videos - Michael Sambol (48 videos):
     - [Videos](https://www.youtube.com/@MichaelSambol)
     - [Code Examples](https://github.com/msambol/dsa)
 
@@ -1352,7 +1345,6 @@ Challenge sites:
 - [Sphere Online Judge (spoj)](http://www.spoj.com/)
 
 Mock Interviews:
-- [Gainlo.co: Mock interviewers from big companies](http://www.gainlo.co/#!/)
 - [Pramp: Mock interviews from/with peers](https://www.pramp.com/)
 
 ## Once you're closer to the interview

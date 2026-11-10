@@ -18,51 +18,43 @@
 <summary>
 अनुवाद:</summary>
 
-- [中文版本](translations/README-cn.md)
-- [Tiếng Việt - Vietnamese](translations/README-vi.md)
-- [Español](translations/README-es.md)
-- [Português Brasileiro](translations/README-ptbr.md)
-- [Polish](translations/README-pl.md)
-- [繁體中文](translations/README-tw.md)
-- [Japanese (日本語)](translations/README-ja.md)
-- [Russian](translations/README-ru.md)
-- [German](translations/README-de.md)
 - [Bahasa Indonesia](translations/README-id.md)
-- [ខ្មែរ - Khmer](translations/README-kh.md)
-- [Uzbek](translations/README-uz.md)
 - [Bulgarian](translations/README-bg.md)
+- [Español](translations/README-es.md)
+- [German](translations/README-de.md)
+- [Japanese (日本語)](translations/README-ja.md)
+- [Polish](translations/README-pl.md)
+- [Português Brasileiro](translations/README-ptbr.md)
+- [Russian](translations/README-ru.md)
+- [Tiếng Việt - Vietnamese](translations/README-vi.md)
+- [Urdu - اردو](tanslations/README-ur.md)
+- [Uzbek](translations/README-uz.md)
 - [বাংলা - Bangla](translations/README-bn.md)
-
+- [ខ្មែរ - Khmer](translations/README-kh.md)
+- [简体中文](translations/README-cn.md)
+- [繁體中文](translations/README-tw.md)
 </details>
 
 <details>
 <summary>
 अनुवाद जारी है:</summary>
-- [עברית](https://github.com/jwasham/coding-interview-university/issues/82)
+
+- [Afrikaans](https://github.com/jwasham/coding-interview-university/issues/1164)
 - [Arabic](https://github.com/jwasham/coding-interview-university/issues/98)
-- [Arabic](https://github.com/jwasham/coding-interview-university/issues/98)
-- [Turkish](https://github.com/jwasham/coding-interview-university/issues/90)
 - [French](https://github.com/jwasham/coding-interview-university/issues/89)
-- [Українська](https://github.com/jwasham/coding-interview-university/issues/106)
-- [Korean(한국어)](https://github.com/jwasham/coding-interview-university/issues/118)
-- [Telugu](https://github.com/jwasham/coding-interview-university/issues/117)
-- [Urdu](https://github.com/jwasham/coding-interview-university/issues/519)
-- [Thai](https://github.com/jwasham/coding-interview-university/issues/156)
 - [Greek](https://github.com/jwasham/coding-interview-university/issues/166)
+- [Italian](https://github.com/jwasham/coding-interview-university/issues/1030)
+- [Korean(한국어)](https://github.com/jwasham/coding-interview-university/issues/118)
 - [Malayalam](https://github.com/jwasham/coding-interview-university/issues/239)
 - [Persian - Farsi](https://github.com/jwasham/coding-interview-university/issues/186)
-- [Afrikaans](https://github.com/jwasham/coding-interview-university/issues/1164)
-
+- [Telugu](https://github.com/jwasham/coding-interview-university/issues/117)
+- [Thai](https://github.com/jwasham/coding-interview-university/issues/156)
+- [Turkish](https://github.com/jwasham/coding-interview-university/issues/90)
+- [Українська](https://github.com/jwasham/coding-interview-university/issues/106)
+- [עברית](https://github.com/jwasham/coding-interview-university/issues/82)
+- [हिन्दी](https://github.com/jwasham/coding-interview-university/issues/81)
 </details>
 
-<div align="center">
-	<hr />
-    <p>
-        <a href="https://github.com/sponsors/jwasham"><strong>प्रायोजक बनें</strong> 
-और कोडिंग साक्षात्कार विश्वविद्यालय का समर्थन करें!</a>
-    </p>
-    <hr />
-</div>
 
 ## यह क्या है?
 
@@ -579,7 +571,7 @@ Anki प्रारूप में मेरा फ्लैशकार्ड
     - [कम्प्यूटेशनल जटिलता: सेक्शन 1](https://www.topcoder.com/thrive/articles/Computational%20Complexity%20part%20one)
     - [कम्प्यूटेशनल जटिलता: धारा 2](https://www.topcoder.com/thrive/articles/Computational%20Complexity%20part%20two)
 - [ ] [चीट शीट] (http://bigocheatsheet.com/)
-- [ ] [[Review] Big-O notation in 5 minutes (video)](https://youtu.be/__vX2sjlpXU)
+- [ ] [[Review] Analyzing Algorithms (playlist) in 18 minutes (video)](https://www.youtube.com/playlist?list=PL9xmBV_5YoZMxejjIyFHWa-4nKg6sdoIv)
 
 खैर, बस इतना ही काफी है।
 
@@ -1202,7 +1194,7 @@ Anki प्रारूप में मेरा फ्लैशकार्ड
 
 - [ ] 2-3 मिनट के लघु विषय वीडियो की श्रृंखला (23 वीडियो)
     - [वीडियो](https://www.youtube.com/watch?v=r4r1DZcx1cM&list=PLmVb1OknmNJuC5POdcDv5oCS7_OUkDgpj&index=22)
-- [ ] 2-5 मिनट के लघु विषय वीडियो की श्रृंखला - Michael Sambol (46 वीडियो):
+- [ ] 2-5 मिनट के लघु विषय वीडियो की श्रृंखला - Michael Sambol (48 वीडियो):
     - [वीडियो](https://www.youtube.com/@MichaelSambol)
     - [Code Examples](https://github.com/msambol/dsa)
 - [ ] [सेजविक वीडियो - एल्गोरिदम I](https://www.coursera.org/learn/algorithms-part1)
@@ -1215,7 +1207,7 @@ Anki प्रारूप में मेरा फ्लैशकार्ड
 - किताबों में तैयारी की जानकारी फिर से शुरू करें देखें: "कोडिंग इंटरव्यू क्रैकिंग" और "प्रोग्रामिंग इंटरव्यू एक्सपोज्ड"
 - मुझे नहीं पता कि यह कितना महत्वपूर्ण है (आप अपना खुद का शोध कर सकते हैं) लेकिन यहां आपके रेज़्यूमे को एटीएस के अनुरूप बनाने पर एक लेख है:
     - [कैसे बनाएं या जांचें कि आपका रिज्यूमे एटीएस के अनुरूप है या नहीं](https://ayedot.com/97/MiniBlog/Meaning-of-ATS-compliant-resume-and-How-to-create-ATS-Resume-for -मुक्त)
-- [गेल मैकडॉवेल (क्रैकिंग द कोडिंग इंटरव्यू के लेखक) द्वारा ["दिस इज़ व्हाट ए गुड रिज्यूमे शुड लुक लाइक"](https://www.careercup.com/resume),
+- [गेल मैकडॉवेल (क्रैकिंग द कोडिंग इंटरव्यू के लेखक) द्वारा ["दिस इज़ व्हाट ए गुड रिज्यूमे शुड लुक लाइक"](https://web.archive.org/web/20240515023235/https://www.careercup.com/resume),
     - लेखक द्वारा नोट: "यह यूएस-केंद्रित रिज्यूमे के लिए है। भारत और अन्य देशों के लिए सीवी की अलग-अलग अपेक्षाएं हैं, हालांकि कई बिंदु समान होंगे।"
 - [टेक इंटरव्यू हैंडबुक द्वारा "स्टेप-बाय-स्टेप रेज़्यूमे गाइड"](https://www.techinterviewhandbook.org/resume/guide)
     - शुरू से अपना रिज्यूमे कैसे सेट करें, इस बारे में विस्तृत गाइड, प्रभावी रिज्यूमे सामग्री लिखें, इसे ऑप्टिमाइज़ करें और अपने रिज्यूमे का परीक्षण करें
@@ -1251,7 +1243,6 @@ Anki प्रारूप में मेरा फ्लैशकार्ड
         - कई बार, यह आपकी तकनीकी योग्यता नहीं है जो आपको अपने सपनों की नौकरी में उतरने से रोकती है, यह है कि आप व्यवहारिक साक्षात्कार पर कैसा प्रदर्शन करते हैं।
 
 नकली साक्षात्कार:
-- [Gainlo.co: बड़ी कंपनियों के नकली साक्षात्कारकर्ता] (http://www.gainlo.co/#!/) - मैंने इसका इस्तेमाल किया और इससे मुझे फोन स्क्रीन और साइट पर साक्षात्कार के लिए आराम करने में मदद मिली
 - [प्रैम्प: पीयर-टू-पीयर मॉडल ऑफ़ प्रैक्टिस इंटरव्यूज़] (https://www.pramp.com/)
 - [interviewing.io: वरिष्ठ इंजीनियरों के साथ मॉक इंटरव्यू का अभ्यास करें](https://interviewing.io) - अनाम एल्गोरिथम/सिस्टम डिज़ाइन साक्षात्कार FAANG के वरिष्ठ इंजीनियरों के साथ गुमनाम रूप से
 
@@ -1388,7 +1379,6 @@ Anki प्रारूप में मेरा फ्लैशकार्ड
 - [ ] **यहां शुरू करें**: [सिस्टम डिजाइन प्राइमर](https://github.com/donnemartin/system-design-primer)
 - [ ] [HiredInTech से सिस्टम डिज़ाइन] (http://www.hiredintech.com/system-design/)
 - [ ] [तकनीकी साक्षात्कार में मैं डिजाइन प्रश्नों के उत्तर देने की तैयारी कैसे करूं?](https://www.quora.com/How-do-I-prepare-to-answer-design-questions-in-a-technical -साक्षात्कार?redirected_qid=1500023)
-- [ ] [8 चीजें जो आपको सिस्टम डिजाइन साक्षात्कार से पहले पता होनी चाहिए](http://blog.gainlo.co/index.php/2015/10/22/8-things-you-need-to-know-before -सिस्टम-डिजाइन-साक्षात्कार/)
 - [ ] [डेटाबेस सामान्यीकरण - 1NF, 2NF, 3NF और 4NF (वीडियो)](https://www.youtube.com/watch?v=UrYLYV7WSHM)
 - [ ] [सिस्टम डिज़ाइन इंटरव्यू](https://github.com/checkcheckzz/system-design-interview) - इसमें बहुत सारे संसाधन हैं। लेखों और उदाहरणों के माध्यम से देखें। मैंने उनमें से कुछ को नीचे रखा है
 - [ ] [कैसे एक सिस्टम डिजाइन साक्षात्कार में सफलता प्राप्त करें](https://web.archive.org/web/20120716060051/http://www.palantir.com/2011/10/how-to-rock-a-systems -डिजाइन-साक्षात्कार/)
@@ -1780,7 +1770,7 @@ Anki प्रारूप में मेरा फ्लैशकार्ड
 - ### डिस्क्रीट मैथ
     - [कंप्यूटर साइंस 70, 001 - स्प्रिंग 2015 - असतत गणित और संभाव्यता सिद्धांत](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs70-spring2015-berkeley.html)
     - [शाई सिमोंसन द्वारा असतत गणित (19 वीडियो)](https://www.youtube.com/playlist?list=PLWX710qNZo_sNlSWRMVIh6kfTjolNaZ8t)
-    - [आईआईटी रोपड़ एनपीटीईएल द्वारा असतत गणित](https://nptel.ac.in/courses/106/106/106106183/)
+    - [आईआईटी रोपड़ एनपीटीईएल द्वारा असतत गणित](https://nptel.ac.in/courses/106106183)
 
 ---
 
